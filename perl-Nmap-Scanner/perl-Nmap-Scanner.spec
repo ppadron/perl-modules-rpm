@@ -2,7 +2,7 @@ Name:           perl-Nmap-Scanner
 Version:        1.0
 Release:        1%{?dist}
 Summary:        Perform and manipulate nmap scans using perl
-License:        CHECK(GPL+ or Artistic)
+License:        GPL+ or Artistic
 Group:          Development/Libraries
 URL:            http://search.cpan.org/dist/Nmap-Scanner/
 Source0:        http://www.cpan.org/modules/by-module/Nmap/Nmap-Scanner-%{version}.tar.gz
