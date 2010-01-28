@@ -2,7 +2,7 @@ Name:           perl-Class-Generate
 Version:        1.10
 Release:        1%{?dist}
 Summary:        Generate Perl class hierarchies
-License:        CHECK(GPL+ or Artistic)
+License:        GPL+ or Artistic
 Group:          Development/Libraries
 URL:            http://search.cpan.org/dist/Class-Generate/
 Source0:        http://www.cpan.org/authors/id/S/SW/SWARTIK/Class-Generate-%{version}.tar.gz
